@@ -16,7 +16,7 @@ The main question the company wants to answer is whether discounting products is
 
 ## Project's folder structure
 
-* /presentation: contains the two SQL scripts.
+* /presentation: contains a pdf file with the presentation of this project
 * /data: contains the original and modified brands.csv, orderlines.csv, orders.csv, products.csv.
 * /plots: project's plots.
 
